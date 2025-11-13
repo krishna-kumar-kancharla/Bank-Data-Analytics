@@ -85,7 +85,7 @@ Presented results as a comprehensive dashboard to support data-driven decision-m
 <img width="1379" height="809" alt="Screenshot 2025-11-06 101424" src="https://github.com/user-attachments/assets/736db55d-fc15-4bb3-b168-7a9713adeca6" />
 
 ## Bank Analytics Presentation PPT:
-"https://github.com/ashoksenoffical29-stack/Bank-Data-Analysis/blob/main/Bank_Analytics_Final_ppt.pptx"
+https://github.com/krishna-kumar-kancharla/Bank-Data-Analytics/blob/main/Bank_Analytics_Final_ppt.pptx
 
 ## Concluaion:
 The Bank Data Analytics Dashboard provides a clear view of financial performance across loan and credit–debit operations. It highlights strong home loan growth, balanced credit–debit ratios, and consistent customer engagement across key branches. Overall, the insights reveal a stable and growing banking ecosystem, enabling smarter, data-driven financial decisions.
